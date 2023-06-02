@@ -8,5 +8,7 @@ public class Main
     {
         HelloWorld HelloWorldTask = new HelloWorld();
         HelloWorldTask.PrintHelloWorld();
+
+        System.out.println("test2Update");
     }
 }
